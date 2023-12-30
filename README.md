@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello!!
 
 <!--
 **AbigailSchidler/AbigailSchidler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+My name is Abigail. I am a freshman at the University of Washington studying computer science. I'm currently trying to get started on working on personal projects, mainly creating websites since I just wrapped up taking a web programming class at UW.
