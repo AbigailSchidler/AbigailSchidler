@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 -->
 
 My name is Abigail. I am a freshman at the University of Washington studying computer science. I'm currently trying to get started on working on personal projects, mainly creating websites since I just wrapped up taking a web programming class at UW.
+
+My main goal, however, is to start tapping into the game development side of computer programming. I absolutely love playing video games, and I really hope that I can become a game developer myself. If anyone is interested in collaborating with me on any sort of game development project you have, please contact me!
